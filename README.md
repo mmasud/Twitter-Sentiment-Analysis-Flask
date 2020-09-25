@@ -1,3 +1,3 @@
 Negative Sentiment Classification and deployment using-Flask
 
-This repository is about building a text classification model and deploy it to the web server to serve for end users.
+The goal of this repository is not highly on building a very accurate classification model but instead to see how we can deploy this predictive model for end users.
